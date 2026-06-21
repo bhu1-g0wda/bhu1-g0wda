@@ -2,7 +2,7 @@
 
 <h2>I'm a passionate software developer who enjoys building scalable applications, solving challenging problems, and learning new technologies.</h2>
 
-## 🚀 About Me
+# 🚀 About Me
 
 * 🔭 Currently working on personal and open-source projects
 * 🌱 Learning **Cloud Computing, System Design, and AI/ML**
@@ -12,7 +12,7 @@
 * 😄 Pronouns: He/Him<br>
 * ⚡ Fun fact: When I'm not coding, you'll probably find me singing my favorite songs or discovering new music.<br>
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 <p align="left">
   <a href="https://www.linkedin.com/in/bhuvangowdaar/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -32,4 +32,3 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
