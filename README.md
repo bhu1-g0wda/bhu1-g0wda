@@ -2,7 +2,7 @@
 
 I'm a passionate software developer who enjoys building scalable applications, solving challenging problems, and learning new technologies.
 
-🔭 I’m currently working on personal and open-source projects
+🔭 I’m currently working on personal and open-source projects<br>
 🌱 I’m currently learning Cloud Computing, System Design, and AI/ML
 👯 I’m looking to collaborate on impactful software projects
 🤔 I’m looking for help with advanced backend architecture and distributed systems
