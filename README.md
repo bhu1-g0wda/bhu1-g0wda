@@ -3,12 +3,11 @@
 <h2>I'm a passionate software developer who enjoys building scalable applications, solving challenging problems, and learning new technologies.</h2>
 
 🔭 I’m currently working on personal and open-source projects<br>
-
 🌱 I’m currently learning Cloud Computing, System Design, and AI/ML<br>
 👯 I’m looking to collaborate on impactful software projects<br>
 🤔 I’m looking for help with advanced backend architecture and distributed systems<br>
 💬 Ask me about Python, Java, Web Development, Data Structures & Algorithms<br>
-📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bhuvangowdaar/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhuvangowda284@gmail.com) <br>
+📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhuvangowdaar/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhuvangowda284@gmail.com) <br>
 😄 Pronouns: He/Him<br>
 ⚡ Fun fact: I enjoy turning ideas into real-world applications<br>
 
