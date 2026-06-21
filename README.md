@@ -29,6 +29,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=bhu1-g0wda&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Quote for the day
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
