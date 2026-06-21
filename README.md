@@ -1,4 +1,4 @@
-<h1>Hellooo!!</h1>
+<h1>Hellooo!! 👋</h1>
 
 <h2>I'm a passionate software developer who enjoys building scalable applications, solving challenging problems, and learning new technologies.</h2>
 
